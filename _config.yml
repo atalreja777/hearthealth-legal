@@ -1,0 +1,12 @@
+title: HeartHealth
+description: Legal documents and support for the HeartHealth app.
+url: https://atalreja777.github.io
+baseurl: /hearthealth-legal
+markdown: kramdown
+
+# No theme / remote_theme on purpose. A theme makes the GitHub Pages build
+# depend on gem resolution, which fails quietly and serves a 404. _layouts/
+# default.html is self-contained, so there is nothing to resolve.
+
+exclude:
+  - README.md

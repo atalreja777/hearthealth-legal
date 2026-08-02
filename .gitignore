@@ -1,0 +1,8 @@
+# Jekyll build output — GitHub Pages builds the site itself; never commit it.
+_site/
+_serve/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+Gemfile.lock
+.DS_Store
