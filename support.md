@@ -2,10 +2,12 @@
 layout: default
 title: Support
 permalink: /support/
-description: How to get help with HeartHealth, report content, or delete your account.
+description: How to get help with CPR360, report content, or delete your account.
 ---
 
-> **HeartHealth is an educational tool, not a medical device.** It does not
+> **Name change (2026-09-19):** the app formerly called *HeartHealth* is now **CPR360**. Only the product name changed — this document, its version, and its effective date are otherwise unaffected. The URLs of these pages are unchanged.
+
+> **CPR360 is an educational tool, not a medical device.** It does not
 > diagnose, treat, or cure any condition, and it is not a substitute for
 > professional medical care or formal CPR/AED certification. For questions about
 > your own health or someone else's, talk to a doctor — this app is not a
@@ -19,7 +21,7 @@ Email **[hearthealthdata@gmail.com](mailto:hearthealthdata@gmail.com)** for
 anything — bugs, questions, content concerns, privacy requests, or account
 deletion help.
 
-HeartHealth is a small independent project, not a staffed support desk. We read
+CPR360 is a small independent project, not a staffed support desk. We read
 every message and reply as soon as we reasonably can, but we can't promise a
 response within any set time. If your message is about someone's immediate safety,
 please contact emergency services rather than waiting for a reply.
@@ -27,7 +29,7 @@ please contact emergency services rather than waiting for a reply.
 To help us help you faster, include your device model, your iOS version, and what
 you were doing when the problem happened.
 
-## What HeartHealth does
+## What CPR360 does
 
 - **CPR metronome and voice guidance** — a full-screen timing tool with spoken
   prompts for adult, child, and infant compressions. Works fully offline.
@@ -53,7 +55,7 @@ We do not promise that a person will review every report within any set time, an
 hiding or removing content is at our discretion. See the
 [Community Terms of Use]({{ site.baseurl }}/terms/) for the full rules.
 
-If you believe content on HeartHealth is unlawful or puts someone at risk, email
+If you believe content on CPR360 is unlawful or puts someone at risk, email
 us at the address above and describe where to find it.
 
 ## Deleting your account
@@ -70,7 +72,7 @@ Two things intentionally survive, in anonymized form:
 
 If you would rather your posts be removed entirely, delete them yourself before
 deleting your account. If you signed in with Apple, deleting your account also
-revokes HeartHealth's Sign in with Apple token.
+revokes CPR360's Sign in with Apple token.
 
 If you can't reach the in-app setting, email us and we'll handle it.
 
@@ -85,7 +87,7 @@ secure keystore and are never uploaded to our servers.
 
 ## About this project
 
-HeartHealth was built in memory of Gwyneth Griffin.
+CPR360 was built in memory of Gwyneth Griffin.
 
 When she was twelve years old, while running on the school track, she suffered a
 cardiac arrest. Her friends ran to get their teachers, but no one there could
@@ -93,6 +95,6 @@ perform CPR, and no one could find an AED. Her father arrived about ten minutes
 later and began compressions. By then her brain had gone too long without oxygen.
 She died seven weeks later from an anoxic brain injury.
 
-HeartHealth is an independent project and is **not affiliated with or endorsed by
+CPR360 is an independent project and is **not affiliated with or endorsed by
 Gwyneth's Gift Foundation**. The app's Donate button opens the foundation's own
-website in your browser; HeartHealth never collects, processes, or forwards money.
+website in your browser; CPR360 never collects, processes, or forwards money.

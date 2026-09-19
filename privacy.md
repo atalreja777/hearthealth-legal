@@ -4,10 +4,12 @@ title: Privacy Policy
 permalink: /privacy/
 version: "1.0"
 effective: 2026-07-29
-description: How the HeartHealth app collects, uses, and stores data.
+description: How the CPR360 app collects, uses, and stores data.
 ---
 
-HeartHealth helps bystanders respond to cardiac emergencies. We collect as little
+> **Name change (2026-09-19):** the app formerly called *HeartHealth* is now **CPR360**. Only the product name changed — this document, its version, and its effective date are otherwise unaffected. The URLs of these pages are unchanged.
+
+CPR360 helps bystanders respond to cardiac emergencies. We collect as little
 as possible and keep your most sensitive data on your device. This policy
 describes how the app handles data.
 
@@ -77,7 +79,7 @@ needed to keep the Community safe.
 
 ## Automatic AI screening of Community text
 Before a post, comment, or report appears in the Community, its text is checked
-automatically by an AI moderation service that HeartHealth runs on **Cloudflare
+automatically by an AI moderation service that CPR360 runs on **Cloudflare
 Workers AI**, a third-party provider. **Only the text you submit is sent** — never
 your name, your account, or your location.
 
@@ -102,7 +104,7 @@ carry their own licenses.
 If the check cannot run, your post is held unpublished until it can be looked at.
 
 **We ask your permission for this separately.** Before you can take part in the
-Community, HeartHealth asks for this specific permission on its own screen, with
+Community, CPR360 asks for this specific permission on its own screen, with
 its own button — it is not bundled into accepting the Terms. Nothing you write is
 sent for screening until you grant it.
 
@@ -118,7 +120,7 @@ arrangement.
 You can delete your account any time in the app, under **Settings → Delete
 account**. Deleting removes your personal account data — your login, contributor
 profile, notification record, and reputation record. If you signed in with Apple,
-we also revoke HeartHealth's Sign in with Apple token.
+we also revoke CPR360's Sign in with Apple token.
 
 Two things intentionally survive, in anonymized form:
 
@@ -133,7 +135,7 @@ is used so we can satisfy erasure requests while keeping public-safety data and
 community threads usable.
 
 ## Notifications
-**This version of HeartHealth does not send you push notifications.** The app never
+**This version of CPR360 does not send you push notifications.** The app never
 asks for notification permission, so none can be delivered.
 
 What does happen: our push provider's software (OneSignal) starts when the app
@@ -192,7 +194,7 @@ breach notification statute (Ch. 19.255 RCW) where it applies.
 The Donate button opens the Gwyneth's Gift Foundation's own website in your
 browser — a separate third-party site with its own privacy policy. We do not
 process donations in the app and do not share your data with the foundation.
-HeartHealth is an independent project and is not affiliated with or endorsed by
+CPR360 is an independent project and is not affiliated with or endorsed by
 Gwyneth's Gift Foundation.
 
 ## Children
@@ -213,7 +215,7 @@ we handle your data, we will say so in the app; where the law requires fresh
 consent for a change, we will ask for it before the change applies to you.
 
 ## Governing law
-HeartHealth is operated from the United States. Except where a state privacy law
+CPR360 is operated from the United States. Except where a state privacy law
 provides otherwise for residents of that state — such as Washington's My Health My
 Data Act — this policy is governed by the laws of the Commonwealth of Virginia,
 without regard to its conflict-of-laws rules.

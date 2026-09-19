@@ -1,17 +1,17 @@
 ---
 layout: default
-title: HeartHealth — Legal & Support
+title: CPR360 — Legal & Support
 permalink: /
-description: Legal documents and support for the HeartHealth app.
+description: Legal documents and support for the CPR360 app.
 ---
 
-HeartHealth is a free iPhone app that helps bystanders respond to cardiac
+CPR360 (formerly HeartHealth) is a free iPhone app that helps bystanders respond to cardiac
 emergencies: a full-screen CPR metronome with voice guidance, an offline-capable
 map of community-contributed AED locations, an interactive CPR/AED lesson, and a
 small community feed. The emergency features work without a signal and without an
 account.
 
-> **HeartHealth is an educational tool, not a medical device.** It does not
+> **CPR360 is an educational tool, not a medical device.** It does not
 > diagnose, treat, or cure any condition, and it is not a substitute for
 > professional medical care or formal CPR/AED certification. **In an emergency,
 > call 911.**
@@ -39,7 +39,7 @@ collect, why, who receives it, and how to exercise your rights.
 
 ## Why this app exists
 
-HeartHealth was built in memory of Gwyneth Griffin.
+CPR360 was built in memory of Gwyneth Griffin.
 
 When she was twelve years old, while running on the school track, she suffered a
 cardiac arrest. Her friends ran to get their teachers, but no one there could
@@ -47,5 +47,5 @@ perform CPR, and no one could find an AED. Her father arrived about ten minutes
 later and began compressions. By then her brain had gone too long without oxygen.
 She died seven weeks later from an anoxic brain injury.
 
-HeartHealth is an independent project and is not affiliated with or endorsed by
+CPR360 is an independent project and is not affiliated with or endorsed by
 Gwyneth's Gift Foundation.

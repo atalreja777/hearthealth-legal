@@ -5,10 +5,12 @@ permalink: /consumer-health-data/
 version: "1.0"
 effective: 2026-07-29
 applies: Washington State consumers
-description: HeartHealth's standalone consumer health data policy under Washington's My Health My Data Act.
+description: CPR360's standalone consumer health data policy under Washington's My Health My Data Act.
 ---
 
-This policy explains how HeartHealth collects, uses, and shares **consumer health
+> **Name change (2026-09-19):** the app formerly called *HeartHealth* is now **CPR360**. Only the product name changed — this document, its version, and its effective date are otherwise unaffected. The URLs of these pages are unchanged.
+
+This policy explains how CPR360 collects, uses, and shares **consumer health
 data** as defined by Washington's My Health My Data Act (MHMDA, RCW 19.373). It is
 a standalone policy, separate from our general
 [Privacy Policy]({{ site.baseurl }}/privacy/). Where the two differ for Washington
@@ -20,14 +22,14 @@ consumers, this policy controls for consumer health data.
 
 MHMDA's enumerated example of consumer health data is *precise* location
 information that could reasonably indicate a consumer's attempt to acquire or
-receive health services or supplies. **HeartHealth does not collect precise
+receive health services or supplies. **CPR360 does not collect precise
 location.** Before your position ever leaves your device, the app rounds it to a
 grid of roughly 11 metres, and we never receive, transmit, or store anything
 finer — not for the AED search, not for the proximity check, not for an AED you
 register.
 
 We disclose this category anyway, and treat it as consumer health data, because
-HeartHealth helps you locate a nearby AED (an automated external defibrillator)
+CPR360 helps you locate a nearby AED (an automated external defibrillator)
 and we would rather over-disclose than argue about the boundary.
 
 This is the only category of consumer health data we collect. We do not collect
@@ -62,7 +64,7 @@ not treat it as, MHMDA consent, because an operating-system permission dialog is
 not a specific, informed, opt-in authorization for health-data processing.
 
 You can stop the collection at any time by turning off location permission for
-HeartHealth in your device settings. The AED finder will then be unable to search
+CPR360 in your device settings. The AED finder will then be unable to search
 around you.
 
 ## The categories of consumer health data we share
@@ -76,7 +78,7 @@ nearby results. These processors act on our documented instructions and are not
 permitted to use the data for their own purposes.
 
 **We have no affiliates.** No entity under common ownership or control with
-HeartHealth receives consumer health data, because no such entity exists.
+CPR360 receives consumer health data, because no such entity exists.
 
 ## Your rights
 
@@ -113,7 +115,7 @@ the Washington State Attorney General.
 General at any time: <https://www.atg.wa.gov/file-complaint>.
 
 ## No geofencing around health facilities
-Consistent with RCW 19.373.080, HeartHealth does not use any geofence around a
+Consistent with RCW 19.373.080, CPR360 does not use any geofence around a
 health-care facility to identify or track consumers, collect data from them, or
 send them messages or advertising based on their proximity to such a facility.
 

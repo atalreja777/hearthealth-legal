@@ -1,6 +1,6 @@
 # hearthealth-legal
 
-Public legal and support pages for the **HeartHealth** iPhone app, served by
+Public legal and support pages for the **CPR360** iPhone app, served by
 GitHub Pages at <https://atalreja777.github.io/hearthealth-legal/>.
 
 This repo is public **only** because GitHub Pages requires it on a free plan. The

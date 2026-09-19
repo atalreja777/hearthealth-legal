@@ -4,14 +4,16 @@ title: Community Terms of Use
 permalink: /terms/
 version: "2026-07-25.1"
 effective: 2026-07-29
-description: The terms governing the HeartHealth Community feed.
+description: The terms governing the CPR360 Community feed.
 ---
 
-These Terms govern your use of the HeartHealth Community — the in-app feed where
+> **Name change (2026-09-19):** the app formerly called *HeartHealth* is now **CPR360**. Only the product name changed — this document, its version, and its effective date are otherwise unaffected. The URLs of these pages are unchanged.
+
+These Terms govern your use of the CPR360 Community — the in-app feed where
 people share posts, comments, and reactions. They are separate from our
 [Privacy Policy]({{ site.baseurl }}/privacy/). By tapping "I Agree" you accept
 these Terms; if you don't agree, you can still use every other part of
-HeartHealth.
+CPR360.
 
 ## You must be 13 or older
 The Community is only for people aged 13 and up. By joining you confirm you are at
@@ -39,7 +41,7 @@ content is at our discretion.
 
 ## Automatic AI screening (Cloudflare)
 Before a post, comment, or report appears in the Community, its text is checked
-automatically by an AI moderation service that HeartHealth runs on **Cloudflare
+automatically by an AI moderation service that CPR360 runs on **Cloudflare
 Workers AI**, a third-party provider. **Only the text you submit is sent** — never
 your name, your account, or your location.
 
@@ -67,7 +69,7 @@ We ask for your permission for this screening **separately**, on its own screen
 with its own button, before any text you write is sent for it — it is not bundled
 into accepting these Terms.
 
-If you do not give that permission, you can use every other part of HeartHealth —
+If you do not give that permission, you can use every other part of CPR360 —
 the CPR metronome, voice guidance, the AED map, and Learn are all unaffected — but
 the Community stays closed, because screening happens before publication and there
 is no path that skips it. You can change your answer any time under **Settings →
@@ -78,7 +80,7 @@ Community posts are written by other users and are for general information and
 support only — they are not medical advice, and following them is at your own
 risk.
 
-HeartHealth's own guidance is derived from American Heart Association materials
+CPR360's own guidance is derived from American Heart Association materials
 for lay rescuers. It is educational, it has not been reviewed or certified by the
 American Heart Association, and it is not a substitute for professional medical
 care or formal CPR/AED certification. Nothing in this app replaces advice from a
@@ -86,14 +88,14 @@ qualified clinician who knows your situation — if you have questions about you
 own health or someone else's, talk to a doctor. In an emergency, call 911.
 
 ## Guidance notes
-HeartHealth may attach a short, informational "CPR guidance note" under a post
+CPR360 may attach a short, informational "CPR guidance note" under a post
 when the post appears to conflict with current bystander guidance. These notes are
 ours, not the poster's, and are meant to inform readers — they do not mean the
 post was removed.
 
 ## Fundraising and payments
 Fundraising posts must link out to an external page to collect any money.
-HeartHealth never processes payments or donations inside the app, and a donation
+CPR360 never processes payments or donations inside the app, and a donation
 never unlocks anything here.
 
 ## Deleting your content and your account
