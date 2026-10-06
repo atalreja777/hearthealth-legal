@@ -35,9 +35,9 @@ and suspend or ban any account, at our discretion, to keep the Community safe.
 ## How moderation works
 Posts and comments are screened automatically before they appear, and anything
 can be reported or its author blocked from the post itself. Content reported by
-multiple people is hidden automatically pending review. We do not promise that a
-person will review every report within any set time, and hiding or removing
-content is at our discretion.
+multiple people is hidden automatically pending review. We review reports within
+24 hours, remove content that breaks these rules, and suspend or ban the accounts
+that post it.
 
 ## Automatic AI screening (Cloudflare)
 Before a post, comment, or report appears in the Community, its text is checked

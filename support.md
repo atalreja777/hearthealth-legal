@@ -51,8 +51,8 @@ Every post and comment in the Community has a menu with **Report** and **Block**
 - **Block** hides that person's posts and comments from you. You can undo this
   under **Settings → Blocked members**.
 
-We do not promise that a person will review every report within any set time, and
-hiding or removing content is at our discretion. See the
+We review reports within 24 hours, remove content that breaks the rules, and
+suspend or ban the accounts that post it. See the
 [Community Terms of Use]({{ site.baseurl }}/terms/) for the full rules.
 
 If you believe content on CPR360 is unlawful or puts someone at risk, email
