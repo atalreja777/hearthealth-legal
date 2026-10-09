@@ -5,7 +5,7 @@ permalink: /support/
 description: How to get help with CPR360, report content, or delete your account.
 ---
 
-> **Name change (2026-09-19):** the app formerly called *HeartHealth* is now **CPR360**. Only the product name changed — this document, its version, and its effective date are otherwise unaffected. The URLs of these pages are unchanged.
+> **Name change (2026-09-19):** the app formerly called *HeartHealth* is now **CPR360**. That rename changed only the product name, not this document's substance. The URLs of these pages are unchanged.
 
 > **CPR360 is an educational tool, not a medical device.** It does not
 > diagnose, treat, or cure any condition, and it is not a substitute for
@@ -26,8 +26,8 @@ every message and reply as soon as we reasonably can, but we can't promise a
 response within any set time. If your message is about someone's immediate safety,
 please contact emergency services rather than waiting for a reply.
 
-To help us help you faster, include your device model, your iOS version, and what
-you were doing when the problem happened.
+To help us help you faster, include your device model, its iOS or Android version,
+and what you were doing when the problem happened.
 
 ## What CPR360 does
 
@@ -49,7 +49,7 @@ Every post and comment in the Community has a menu with **Report** and **Block**
   hidden automatically pending review. All posts and comments are also screened
   automatically before they ever appear.
 - **Block** hides that person's posts and comments from you. You can undo this
-  under **Settings → Blocked members**.
+  under **Profile → Settings → Blocked members**.
 
 We review reports within 24 hours, remove content that breaks the rules, and
 suspend or ban the accounts that post it. See the
@@ -60,21 +60,32 @@ us at the address above and describe where to find it.
 
 ## Deleting your account
 
-Open the app and go to **Settings → Delete account**. This permanently deletes
-your login, contributor profile, notification record, and reputation record.
+**Full details, including how to request deletion by email without the app:
+[Delete Your Account]({{ site.baseurl }}/delete-account/).**
 
-Two things intentionally survive, in anonymized form:
+Open the app, tap the profile icon on the Home screen, and go to **Settings →
+Delete account**. This permanently deletes your login, contributor profile,
+notification record, reputation record, reactions, and block list.
+
+Some things intentionally survive, in anonymized form, as the
+[Delete Your Account]({{ site.baseurl }}/delete-account/) page lists in full:
 
 - **AEDs you registered**, including their photos, stay on the public map so
   others can still find a defibrillator in an emergency.
+- **Your AED checks and missing reports**, with their private evidence photos.
 - **Posts and comments you wrote** stay in the Community shown as "[deleted]", so
   conversations other people took part in remain intact.
+- **Moderation records** and reports.
 
-If you would rather your posts be removed entirely, delete them yourself before
-deleting your account. If you signed in with Apple, deleting your account also
-revokes CPR360's Sign in with Apple token.
+If you would rather your posts be hidden, delete them yourself before deleting
+your account; a deleted post is hidden from everyone but kept on our servers for
+moderation, and you can ask us to erase it for good. If you signed in with Apple,
+deleting your account also revokes CPR360's Sign in with Apple token. If you
+signed in with Google, there is no CPR360 token on our servers to revoke; you can
+remove CPR360 from your Google Account's third-party connections.
 
-If you can't reach the in-app setting, email us and we'll handle it.
+If you don't have the app or can't reach the setting, email us — the
+[Delete Your Account]({{ site.baseurl }}/delete-account/) page says what to include.
 
 ## Privacy requests
 
@@ -83,7 +94,8 @@ Washington residents have additional rights under the My Health My Data Act — 
 the [Consumer Health Data Privacy Policy]({{ site.baseurl }}/consumer-health-data/).
 
 Your emergency contacts never leave your device. They are stored in your phone's
-secure keystore and are never uploaded to our servers.
+secure keystore (iOS Keychain or Android Keystore) and are never uploaded to our
+servers.
 
 ## About this project
 

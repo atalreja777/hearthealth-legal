@@ -5,8 +5,8 @@ permalink: /
 description: Legal documents and support for the CPR360 app.
 ---
 
-CPR360 (formerly HeartHealth) is a free iPhone app that helps bystanders respond to cardiac
-emergencies: a full-screen CPR metronome with voice guidance, an offline-capable
+CPR360 (formerly HeartHealth) is a free app for iPhone, iPad, and Android that helps
+bystanders respond to cardiac emergencies: a full-screen CPR metronome with voice guidance, an offline-capable
 map of community-contributed AED locations, an interactive CPR/AED lesson, and a
 small community feed. The emergency features work without a signal and without an
 account.
@@ -32,6 +32,9 @@ collect, why, who receives it, and how to exercise your rights.
   in-app Community feed, including automatic AI screening and moderation.
 - **[Support]({{ site.baseurl }}/support/)** — how to contact us, report content,
   block someone, or delete your account.
+- **[Delete Your Account]({{ site.baseurl }}/delete-account/)** — how to delete
+  your CPR360 account in the app or by email (no app needed), and exactly what is
+  deleted and what is kept.
 
 ## Contact
 

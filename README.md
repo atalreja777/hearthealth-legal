@@ -1,6 +1,6 @@
 # hearthealth-legal
 
-Public legal and support pages for the **CPR360** iPhone app, served by
+Public legal and support pages for the **CPR360** app (iPhone, iPad, and Android), served by
 GitHub Pages at <https://atalreja777.github.io/hearthealth-legal/>.
 
 This repo is public **only** because GitHub Pages requires it on a free plan. The
@@ -17,9 +17,19 @@ Edit the Markdown here. Do not edit copies elsewhere and expect them to appear.
 | Consumer Health Data Privacy (WA) | `consumer-health-data.md` | `/hearthealth-legal/consumer-health-data/` |
 | Community Terms of Use | `terms.md` | `/hearthealth-legal/terms/` |
 | Support | `support.md` | `/hearthealth-legal/support/` |
+| Delete Your Account | `delete-account.md` | `/hearthealth-legal/delete-account/` |
 
-The Privacy Policy and Support URLs are filed in App Store Connect. **Never change
-a `permalink:` value** — that breaks a URL Apple has on record.
+The Privacy Policy and Support URLs are filed in App Store Connect; the Privacy
+Policy and Delete Your Account URLs are filed in the Google Play Console (privacy
+policy, Data safety, and account-deletion fields). **Never change a `permalink:`
+value** — that breaks a URL Apple or Google has on record.
+
+**TODO (owner, before the Play listing goes live):** `delete-account.md` carries a
+`developer_name:` front-matter value, currently `Arnav Talreja`. Set it to the
+developer name exactly as shown on the **Google Play** listing. If the Play
+account is held in a parent's or guardian's legal name, use that name. The App
+Store seller name may differ, and this page follows Play. Google requires the
+deletion page to name the app or the developer as it appears on the listing.
 
 ## Editing
 
@@ -27,7 +37,8 @@ Open a file on github.com, click the pencil, edit, and commit to `main`. The sit
 rebuilds in about a minute. No local checkout, no build step, no Node.
 
 Each page's `version:` and `effective:` front-matter drives the stamp under its
-title. When the text changes materially, bump both.
+title, and an optional `updated:` adds "Last updated" to it. When the text changes
+materially, bump the version (or at least set `updated:`).
 
 ## How it's built
 

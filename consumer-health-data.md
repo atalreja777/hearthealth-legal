@@ -4,11 +4,19 @@ title: Consumer Health Data Privacy Policy
 permalink: /consumer-health-data/
 version: "1.0"
 effective: 2026-07-29
+updated: 2026-10-07
 applies: Washington State consumers
 description: CPR360's standalone consumer health data policy under Washington's My Health My Data Act.
 ---
 
-> **Name change (2026-09-19):** the app formerly called *HeartHealth* is now **CPR360**. Only the product name changed — this document, its version, and its effective date are otherwise unaffected. The URLs of these pages are unchanged.
+> **Name change (2026-09-19):** the app formerly called *HeartHealth* is now **CPR360**. That rename changed only the product name, not this document's substance. The URLs of these pages are unchanged.
+
+> **Correction (2026-10-07):** an earlier version of this page said CPR360 does
+> not collect precise location. That was wrong. The app rounds your location to
+> about 11 metres, and that is still *precise location information* as this law
+> defines it. The app's behavior has not changed; this page now describes it
+> correctly. The page also now names every recipient of location data, including
+> your phone's own map and geocoding services, and covers CPR360 on Android.
 
 This policy explains how CPR360 collects, uses, and shares **consumer health
 data** as defined by Washington's My Health My Data Act (MHMDA, RCW 19.373). It is
@@ -18,19 +26,19 @@ consumers, this policy controls for consumer health data.
 
 ## The categories of consumer health data we collect
 
-**Approximate location information — not precise location.**
+**Precise location information, rounded to about 11 metres.**
 
-MHMDA's enumerated example of consumer health data is *precise* location
-information that could reasonably indicate a consumer's attempt to acquire or
-receive health services or supplies. **CPR360 does not collect precise
-location.** Before your position ever leaves your device, the app rounds it to a
-grid of roughly 11 metres, and we never receive, transmit, or store anything
-finer — not for the AED search, not for the proximity check, not for an AED you
-register.
+MHMDA's enumerated example of consumer health data is *precise location
+information* that could reasonably indicate a consumer's attempt to acquire or
+receive health services or supplies. The law defines precise location as
+location accurate to within a radius of 1,750 feet (RCW 19.373.010).
 
-We disclose this category anyway, and treat it as consumer health data, because
-CPR360 helps you locate a nearby AED (an automated external defibrillator)
-and we would rather over-disclose than argue about the boundary.
+Before your position leaves your device, the app rounds it to a grid of about 11
+metres. We never receive, transmit, or store anything finer, whether for the AED
+search, the proximity check, or an AED you register. But 11 metres is far inside
+1,750 feet, so **the location CPR360 collects is precise location information as
+MHMDA defines it.** We treat it as consumer health data because CPR360 helps you
+find a nearby AED (an automated external defibrillator).
 
 This is the only category of consumer health data we collect. We do not collect
 health conditions, diagnoses, treatments, medications, vital signs, biometric
@@ -38,18 +46,24 @@ data, or any information about health care you have sought or received.
 
 ## The purpose of collection and how the data is used
 
-Your location is used for one purpose: **to find AEDs near you**, and to confirm
-you are actually near an AED when you verify one is still there or report one
-missing. The app sends an approximate latitude/longitude (rounded as described
-above) and a timestamp, receives the nearby results, and does not build a history
-of where you go.
+Your location is used **to find AEDs near you**, and to confirm you are actually
+near an AED when you verify one is still there or report one missing. The app
+sends the rounded latitude/longitude and gets back the nearby results. Apart from
+the AEDs you register and the AED checks and reports you choose to make, we don't
+build a history of where you go.
+
+If you tap "Call 911 + Alert Contacts" on the emergency screen, the app also puts
+your rounded location, and the street address looked up for it, into the text
+your phone's messaging app sends to the contacts you chose. That text is sent by
+your phone and does not pass through us.
 
 When you choose to register an AED, the location you submit becomes part of that
 AED's public map pin. That is the purpose of registering it.
 
 We do not use consumer health data for advertising, profiling, or any form of
-targeting, and the app's CPR guidance, metronome, and educational content do not
-use location at all.
+targeting. The CPR metronome, voice guidance, and the Learn lesson do not use
+location. On the emergency screen, location is used only for the emergency text
+described above.
 
 ## The legal basis for collection
 
@@ -72,10 +86,26 @@ around you.
 **We do not sell consumer health data.** We have never sold it and we do not share
 it for advertising or targeting.
 
-We share it only with **processors**, and only as needed to operate the AED search:
-our database and hosting provider, which runs the geographic query and returns
-nearby results. These processors act on our documented instructions and are not
-permitted to use the data for their own purposes.
+Location goes to these recipients, and only as needed for the feature you are
+using:
+
+- **Our database and hosting provider (Supabase), a processor.** It runs the
+  nearby-AED search and stores the location of AEDs you register. It acts on our
+  documented instructions and may not use the data for its own purposes.
+- **Your phone's built-in geocoding service: Apple on iPhone and iPad, Google on
+  Android.** It receives the rounded coordinates and returns a street address.
+  This happens for the emergency text, for registering an AED, and when you take
+  an AED photo. It also receives any ZIP code you type to browse the map. These
+  services are part of your phone's operating system. Apple and Google run them
+  under their own privacy policies, not as our processors.
+- **The map component (Apple Maps on iPhone and iPad; the Google Maps SDK on
+  Android).** It draws your "you are here" dot on the AED map using your phone's
+  own location services (Core Location, or Google Play services on Android). That
+  position is not rounded, and CPR360 never receives it. Google documents what
+  the Maps SDK itself collects
+  [here](https://developers.google.com/maps/documentation/android-sdk/play-data-disclosure).
+- **The contacts you choose,** through the emergency text your own phone sends,
+  only when you tap "Call 911 + Alert Contacts".
 
 **We have no affiliates.** No entity under common ownership or control with
 CPR360 receives consumer health data, because no such entity exists.
@@ -93,7 +123,8 @@ If you are a Washington consumer, you have the right to:
 - **Delete** — request deletion of your consumer health data. We will delete it
   from our records and notify our processors of the request.
 
-Because we do not retain a location history, in most cases there is little or no
+Because we do not retain a location history, apart from the locations of AEDs you
+register (which are part of the public map), in most cases there is little or no
 stored consumer health data to return or delete. We will tell you plainly if that
 is the case rather than sending an empty file.
 

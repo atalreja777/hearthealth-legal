@@ -102,6 +102,7 @@
       {% if page.version %}Version {{ page.version }}{% endif %}
       {% if page.version and page.effective %} · {% endif %}
       {% if page.effective %}Effective {{ page.effective }}{% endif %}
+      {% if page.updated %} · Last updated {{ page.updated }}{% endif %}
       {% if page.applies %} · Applies to {{ page.applies }}{% endif %}
     </p>
     {% endif %}
@@ -115,6 +116,7 @@
     <a href="{{ site.baseurl }}/consumer-health-data/"{% if page.url == "/consumer-health-data/" %} aria-current="page"{% endif %}>Consumer Health Data Privacy</a>
     <a href="{{ site.baseurl }}/terms/"{% if page.url == "/terms/" %} aria-current="page"{% endif %}>Community Terms of Use</a>
     <a href="{{ site.baseurl }}/support/"{% if page.url == "/support/" %} aria-current="page"{% endif %}>Support</a>
+    <a href="{{ site.baseurl }}/delete-account/"{% if page.url == "/delete-account/" %} aria-current="page"{% endif %}>Delete Your Account</a>
   </nav>
 
   <footer class="site">
